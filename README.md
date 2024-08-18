@@ -14,12 +14,6 @@ Build a simulator that simulates processor execution for processes. Implement th
 - Processor creation time is negligible
 - Scheduler has a queue/buffer for incoming tasks/processes
 
-## Tools
-
-- IntelliJ IDEA Community Edition
-- Microsoft Office
-- Draw.io
-
 ## Structural Overview
 
 The Processor Executor Project consists of a Simulator that executes the components it creates or is responsible for. The simulator operates based on configurations provided by the user via the console.
