@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ProcessorScheduler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProcessorScheduler_jar</output-path>
+    <root id="archive" name="ProcessorScheduler.jar">
+      <element id="module-output" name="ProcessorScheduler" />
+    </root>
+  </artifact>
+</component>
