@@ -1,5 +1,8 @@
 # CPU Scheduler
 
+## Sample Screenshot
+![image](https://github.com/user-attachments/assets/ff8143f5-11ca-4025-b777-1768a35fd7cd)
+
 ## Project Description
 
 Build a simulator that simulates processor execution for processes.
