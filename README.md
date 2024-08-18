@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Build a simulator that simulates processor execution for processes. Implement the simulator using object-oriented programming principles and consider that it may be extended in the future.
+Build a simulator that simulates processor execution for processes.
 
 ## Notable Project Constraints
 
